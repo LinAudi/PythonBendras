@@ -1,4 +1,5 @@
 class CoffeShop:
+    """CoffeShop klase"""
     def __init__(self,name,menu):
         self.name = name
         self.menu = menu
