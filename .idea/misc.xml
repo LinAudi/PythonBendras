@@ -3,8 +3,10 @@
   <component name="Black">
     <option name="cmdArguments" value="--line-length 120" />
     <option name="enabledOnSave" value="true" />
-    <option name="pathToExecutable" value="C:\Users\Violeta\AppData\Local\Programs\Python\Python312\Scripts\black.exe" />
-    <option name="sdkName" value="Python 3.12 (first)" />
+    <option name="sdkName" value="Python 3.12 (PythonBendras)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (first)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (PythonBendras)" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
 </project>
